@@ -1,0 +1,358 @@
+版本号：1.0.0
+维护者：Alice1sG.O.A.T.
+更新时间：2026-11-10
+
+// =============================================
+// 《东方Project》（Touhou Project）同人小说专用术语表
+// =============================================
+
+// ========== 角色名（区分大小写） ==========
+词条
+Reimu Hakurei = 博丽灵梦
+Reimu = 灵梦
+Marisa Kirisame = 雾雨魔理沙
+Marisa = 魔理沙
+Rumia = 露米娅
+Daiyousei = 大妖精
+Cirno = 琪露诺
+Hong Meiling = 红美铃
+Meiling = 美铃
+Koakuma = 小恶魔
+Patchouli Knowledge = 帕秋莉·诺蕾姬
+Patchouli = 帕秋莉
+Sakuya Izayoi = 十六夜咲夜
+Sakuya = 咲夜
+Remilia Scarlet = 蕾米莉亚·斯卡蕾特
+Remilia = 蕾米莉亚
+Flandre Scarlet = 芙兰朵露·斯卡蕾特
+Flandre = 芙兰朵露
+Letty Whiterock = 蕾蒂·霍瓦特洛克
+Letty = 蕾蒂
+Chen = 橙
+Alice Margatroid = 爱丽丝·玛格特罗伊德
+Alice = 爱丽丝
+Lily White = 莉莉白
+Lunasa Prismriver = 露娜萨·普莉兹姆利巴
+Lunasa = 露娜萨
+Merlin Prismriver = 梅露兰·普莉兹姆利巴
+Merlin = 梅露兰
+Lyrica Prismriver = 莉莉卡·普莉兹姆利巴
+Lyrica = 莉莉卡
+Youmu Konpaku = 魂魄妖梦
+Youmu = 魂魄妖梦
+Yuyuko Saigyouji = 西行寺幽幽子
+Yuyuko = 幽幽子
+Ran Yakumo = 八云蓝
+Ran = 蓝
+Yukari Yakumo = 八云紫
+Yukari = 紫
+Suika Ibuki = 伊吹萃香
+Suika = 萃香
+Wriggle Nightbug = 莉格露·奈特巴格
+Wriggle = 莉格露
+Mystia Lorelei = 米斯蒂娅·洛蕾拉
+Mystia = 米斯蒂娅
+Keine Kamishirasawa = 上白泽慧音
+Keine = 慧音
+Tewi Inaba = 因幡帝
+Tewi = 帝
+Reisen Udongein Inaba = 铃仙·优昙华院·因幡
+Reisen = 铃仙
+Udonge = 优昙华
+Inaba = 因幡
+Eirin Yagokoro = 八意永琳
+Eirin = 永琳
+Kaguya Houraisan = 蓬莱山辉夜
+Kaguya = 辉夜
+Fujiwara no Mokou = 藤原妹红
+Mokou = 妹红
+Aya Shameimaru = 射命丸文
+Aya = 文
+Medicine Melancholy = 梅蒂欣·梅兰可莉
+Medicine = 梅蒂欣
+Melancholy = 梅兰可莉
+Yuuka Kazami = 风见幽香
+Yuuka = 幽香
+Komachi Onozuka = 小野塚小町
+Komachi = 小町
+Eiki Shiki, Yamaxanadu = 四季映姬·亚玛萨那度
+Eiki = 映姬
+Shizuha Aki = 秋静叶
+Shizuha = 静叶
+Minoriko Aki = 秋穰子
+Minoriko = 穰子
+Hina Kagiyama = 键山雏
+Hina = 键山雏
+Nitori Kawashiro = 河城荷取
+Nitori = 荷取
+Momiji Inubashiri = 犬走椛
+Momiji = 椛
+Sanae Kochiya = 东风谷早苗
+Sanae = 早苗
+Kanako Yasaka = 八坂神奈子
+Kanako = 神奈子
+Suwako Moriya = 洩矢诹访子
+Suwako = 诹访子
+Iku Nagae = 永江衣玖
+Iku = 衣玖
+Tenshi Hinanawi = 比那名居天子
+Tenshi = 天子
+Kisume = 琪斯美
+Yamame Kurodani = 黑谷山女
+Yamame = 山女
+Parsee Mizuhashi = 水桥帕露西
+Parsee = 帕露西
+Yuugi Hoshiguma = 星熊勇仪
+Yuugi = 勇仪
+Satori Komeiji = 古明地觉
+Satori = 觉
+Rin Kaenbyou = 火焰猫燐
+Orin = 阿燐
+Utsuho Reiuji = 灵乌路空
+Okuu = 阿空
+Koishi Komeiji = 古明地恋
+Koishi = 恋
+Nazrin = 纳兹琳
+Kogasa Tatara = 多多良小伞
+Kogasa = 小伞
+Ichirin Kumoi = 云居一轮
+Ichirin = 一轮
+Minamitsu Murasa = 村纱水蜜
+Minamitsu = 水蜜
+Shou Toramaru = 寅丸星
+Shou = 星
+Byakuren Hijiri = 圣白莲
+Byakuren = 白莲
+Hijiri = 圣
+Nue Houjuu = 封兽鵺
+Nue = 鵺
+Hatate Himekaidou = 姬海棠果
+Hatate = 果
+Kyouko Kasodani = 幽谷响子
+Kyouko = 响子
+Yoshika Miyako = 宫古芳香
+Yoshika = 芳香
+Seiga Kaku = 霍青娥
+Seiga = 青娥
+Soga no Tojiko = 苏我屠自古
+Tojiko = 屠自古
+Mononobe no Futo = 物部布都
+Futo = 布都
+Toyosatomimi no Miko = 丰聪耳神子
+Miko = 神子
+Mamizou Futatsuiwa = 二岩猯藏
+Mamizou = 猯藏
+Hata no Kokoro = 秦心
+Kokoro = 秦心
+Wakasagihime = 若鹭姬
+Sekibanki = 赤蛮奇
+Kagerou Imaizumi = 今泉影狼
+Kagerou = 影狼
+Benben Tsukumo = 九十九弁弁
+Benben = 弁弁
+Yatsuhashi Tsukumo = 九十九八桥
+Yatsuhashi = 八桥
+Seija Kijin = 鬼人正邪
+Seija = 正邪
+Shinmyoumaru Sukuna = 少名针妙丸
+Shinmyoumaru = 针妙丸
+Raiko Horikawa = 堀川雷鼓
+Raiko = 雷鼓
+Sumireko Usami = 宇佐见堇子
+Sumireko = 堇子
+Seiran = 清兰
+Ringo = 铃瑚
+Doremy Sweet = 哆来咪·苏伊特
+Doremy = 哆来咪
+Sagume Kishin = 稀神探女
+Sagume = 探女
+Clownpiece = 克劳恩皮丝
+Junko = 纯狐
+Hecatia Lapislazuli = 赫卡提亚·拉碧斯拉祖利
+Hecatia = 赫卡提亚
+Jyoon Yorigami = 依神女苑
+Jyoon = 女苑
+Shion Yorigami = 依神紫苑
+Shion = 紫苑
+Eternity Larva = 爱塔妮缇·拉尔瓦
+Larva = 拉尔瓦
+Nemuno Sakata = 坂田合欢
+Nemuno = 合欢
+Aunn Komano = 高丽野阿吽
+Aunn = 阿吽
+Narumi Yatadera = 矢田寺成美
+Narumi = 成美
+Satono Nishida = 尔子田里乃
+Satono = 里乃
+Mai Teireida = 丁礼田舞
+Mai = 舞
+Okina Matara = 摩多罗隐岐奈
+Okina = 隐岐奈
+Eika Ebisu = 戎璎花
+Eika = 璎花
+Urumi Ushizaki = 牛崎润美
+Urumi = 润美
+Kutaka Niwatari = 庭渡久侘歌
+Kutaka = 久侘歌
+Yachie Kicchou = 吉吊八千慧
+Yachie = 八千慧
+Mayumi Joutouguu = 杖刀偶磨弓
+Mayumi = 磨弓
+Keiki Haniyasushin = 埴安神袿姬
+Keiki = 袿姬
+Saki Kurokoma = 骊驹早鬼
+Saki = 早鬼
+Yuma Toutetsu = 饕餮尤魔
+Yuma = 尤魔
+Mike Goutokuji = 豪德寺三花
+Mike = 三花
+Takane Yamashiro = 山城高岭
+Takane = 高岭
+Sannyo Komakusa = 驹草山如
+Sannyo = 山如
+Misumaru Tamatsukuri = 玉造魅须丸
+Misumaru = 魅须丸
+Tsukasa Kudamaki = 菅牧典
+Tsukasa = 典
+Megumu Iizunamaru = 饭纲丸龙
+Megumu = 龙
+Chimata Tenkyuu = 天弓千亦
+Chimata = 千亦
+Momoyo Himemushi = 姬虫百百世
+Momoyo = 百百世
+Biten Son = 孙美天
+Biten = 孙美天
+Enoko Himorogi = 三头慧之子
+Enoko = 慧之子
+Chiyari Tenka = 天火人血枪
+Chiyari = 血枪
+Hisami Yomotsu = 豫母都日狭美
+Hisami = 日狭美
+Zanmu Nippaku = 日白残无
+Zanmu = 残无
+Ubame Chirizuka = 尘塚姥芽
+Ubame = 姥芽
+Chimi Houju = 封兽魑魅
+Chimi = 魑魅
+Nareko Michigami = 道神驯子
+Nareko = 驯子
+Yuiman Asama = 维缦·浅间
+Yuiman = 维缦
+Ariya	Iwanaga = 磐永阿梨夜
+Ariya = 阿梨夜
+Nina Watari = 渡里贝子
+Nina = 贝子
+Rinnosuke Morichika = 森近霖之助
+Rinnosuke = 霖之助
+Kourin = 香霖
+Tokiko = 朱鹭子
+Sunny Milk = 桑尼米尔克
+Luna Child = 露娜切露德
+Star Sapphire = 斯塔萨菲雅
+Hieda no Akyuu = 稗田阿求
+Akyuu = 阿求
+Watatsuki no Toyohime = 绵月丰姬
+Toyohime = 丰姬
+Watatsuki no Yorihime = 绵月依姬
+Yorihime = 依姬
+Kosuzu Motoori = 本居小铃
+Kosuzu = 小铃
+Mizuchi Miyadeguchi = 宫出口瑞灵
+Mizuchi = 瑞灵
+Miyoi Okunoda = 奥野田美宵
+Miyoi = 美宵
+Renko Usami = 宇佐见莲子
+Renko = 莲子
+Maribel Hearn = 玛艾露贝莉·赫恩
+Maribel = 玛艾露贝莉
+Merry = 梅莉
+Rin Satsuki = 冴月麟
+Rin = 麟
+
+// 部分旧作
+Mima = 魅魔
+Ellen = 爱莲
+Kotohime = 小兔姬
+Kana Anaberal = 卡娜·安娜贝拉尔
+Kana = 卡娜
+Rikako Asakura = 朝仓理香子
+Rikako = 理香子
+Chiyuri Kitashirakawa = 北白河千百合
+Chiyuri = 千百合
+Yumemi Okazaki = 冈崎梦美
+Yumemi = 梦美
+Kurumi = 胡桃
+Elly = 艾丽
+Yumeko = 梦子
+Shinki = 神绮
+
+
+// ========== 人物外号与尊称（用引号强制精确匹配） ==========
+词条
+"The Shrine Maiden of Paradise"：乐园的巫女
+"Ordinary Magician"：普通的魔法使
+"Scarlet Devil"：绯红恶魔
+"The Devil's Sister"：恶魔之妹
+"Perfect and Elegant Maid"：完美而潇洒的女仆
+"The Seven-Colored Puppeteer"：七彩的人形使
+"The Unmoving Great Library"：不动的大图书馆
+"The Traditional Old-School Reporter"：传统的正统新闻记者
+"Gap Youkai"：隙间妖怪
+
+// ========== 地名、建筑与特殊区域 ==========
+词条
+"Hakurei Shrine"：博丽神社
+"Moriya Shrine"：守矢神社
+"Scarlet Devil Mansion"：红魔馆
+"Voile, the Magic Library"：巴瓦鲁魔法图书馆
+"Netherworld"：冥界
+"Hakugyokurou"：白玉楼
+"Bamboo Forest of the Lost"：迷途竹林
+"Eientei"：永远亭
+"Myouren Temple"：命莲寺
+"Divine Spirit Mausoleum"：神灵庙
+"Youkai Mountain"：妖怪之山
+"Kappa's Hideout"：河童的藏身处
+"Geidontei"：鲸吞亭
+"Suzunaan"：铃奈庵
+"Kourindou"：香霖堂
+"Sanzu River"：三途之川
+"Higan"：彼岸
+"Former Hell"：旧地狱
+"Palace of the Earth Spirits"：地灵殿
+"Lunar Capital"：月之都
+"Sea of Pure Capital"：净海
+"Animal Realm"：畜生界
+"Hell"：地狱
+
+// ========== 种族与身份（不区分大小写） ==========
+通用词条
+youkai：妖怪
+human：人类
+half-youkai：半妖
+magician：魔法使
+vampire：吸血鬼
+ghost：幽灵
+phantom：亡灵
+celestial：天人
+hermit：仙人
+lunarian：月之民
+fairy：妖精
+kappa：河童
+tengu：天狗
+crow tengu：乌鸦天狗
+wolf tengu：白狼天狗
+oni：鬼
+zashiki-warashi：座敷童子
+tsukumogami：付丧神
+divine spirit：神灵
+god：神明
+Yaoyorozu no Kami：八百万神
+
+// ========== 核心设定与机制（不区分大小写） ==========
+通用词条
+incident：异变
+danmaku：弹幕
+spell card rules：符卡规则
+border of gensokyo：幻想乡的结界
+great hakurei barrier：博丽大结界
