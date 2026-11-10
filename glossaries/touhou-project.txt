@@ -31,6 +31,8 @@ Letty = 蕾蒂
 Chen = 橙
 Alice Margatroid = 爱丽丝·玛格特罗伊德
 Alice = 爱丽丝
+Shanghai = 上海
+Hourai = 蓬莱
 Lily White = 莉莉白
 Lunasa Prismriver = 露娜萨·普莉兹姆利巴
 Lunasa = 露娜萨
@@ -71,6 +73,7 @@ Aya = 文
 Medicine Melancholy = 梅蒂欣·梅兰可莉
 Medicine = 梅蒂欣
 Melancholy = 梅兰可莉
+Su-san = 铃铃
 Yuuka Kazami = 风见幽香
 Yuuka = 幽香
 Komachi Onozuka = 小野塚小町
@@ -348,6 +351,8 @@ tsukumogami：付丧神
 divine spirit：神灵
 god：神明
 Yaoyorozu no Kami：八百万神
+shikigami：式神
+hakutaku：白泽
 
 // ========== 核心设定与机制（不区分大小写） ==========
 通用词条
